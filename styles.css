@@ -45,6 +45,13 @@ h1 {
   left: 25%;
 }
 
+.ghost {
+	background-color: rgba(0, 0, 0, 0.5);
+}
+.ghost h2, .ghost p {
+	color: #fff;
+}
+
 .steel {
 	background-color: #f4f4f4;
 }
